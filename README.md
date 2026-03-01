@@ -13,7 +13,7 @@ Windows 10 原版微软雅黑字体，自用备份，顺便分享
 字体文件
 
 · 来源：Windows 10 系统原版提取，未做任何修改。
-· 格式：.TTC和trc（TrueType Collection，包含常规、粗体、细体等）
+· 格式：.TTC和ttf（TrueType Collection，包含常规、粗体、细体等）
 · 文件：msyh.ttc
     （如果你只需要单个字重，可以用字体工具拆分，或者网上搜“TTC 拆分工具”）
 
